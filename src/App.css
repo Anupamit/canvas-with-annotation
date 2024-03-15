@@ -1,0 +1,18 @@
+/* styles.css */
+.canvas-container {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.color-picker {
+  margin-bottom: 10px;
+}
+
+.brush-size {
+  margin-bottom: 10px;
+}
+
+.clear-button {
+  margin-bottom: 10px;
+}
