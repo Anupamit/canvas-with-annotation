@@ -4,7 +4,7 @@ const HighlightCanvas = () => {
   const canvasRef = useRef(null);
   const [isDrawing, setIsDrawing] = useState(false);
   const [drawMode, setDrawMode] = useState(false);
-  const [color, setColor] = useState("yellow"); // Default highlight color
+  const [color, setColor] = useState(" #FFFF00"); // Default highlight color
 
   useEffect(() => {
     const canvas = canvasRef.current;

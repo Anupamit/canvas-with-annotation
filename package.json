@@ -12,6 +12,7 @@
   "dependencies": {
     "@vx/annotation": "^0.0.199",
     "konva": "^9.3.6",
+    "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-annotation": "^2.2.1",
     "react-canvas-draw": "^1.2.1",
