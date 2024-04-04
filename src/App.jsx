@@ -9,6 +9,8 @@ import Highlighter from "./Highlighter";
 import LineCanvas from "./LineCanvas";
 import RectangleCanvas from "./RectangleCanvas";
 import ResizableCanvasElement from "./ResizableCanvasElement";
+import SelectAndDelete from "./SelectAndDelete";
+import Test from "./Test";
 // import SelectableRectangleCanvas from "./SelectableRectangleCanvas";
 import TextRectangleCanvas from "./TextRectangleCanvas";
 
@@ -26,6 +28,8 @@ function App() {
       <TextRectangleCanvas />
       <CanvasZoom />
       <ResizableCanvasElement />
+      <Test />
+      <SelectAndDelete />
       {/* <SelectableRectangleCanvas /> */}
     </>
   );
